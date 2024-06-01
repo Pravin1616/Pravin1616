@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web development<br>👯 I’m looking to collaborate on Fullstack web applications<br>🤝 I’m looking for help with building real time web applications<br>🌱 I’m currently learning Node Js<br>💬 Ask me about software development<br>⚡ Fun fact - I am lazy but smart
+🔭 I’m currently working as a Software Engineer<br>👯 I’m looking to collaborate on Fullstack web applications<br>🤝 I’m looking for help with building real time web applications<br>🌱 I’m currently learning Node Js<br>💬 Ask me about software development<br>⚡ Fun fact - I am lazy but smart
 
 
 # 💻 Tech Stack:
